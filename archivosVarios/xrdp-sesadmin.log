@@ -1,0 +1,4 @@
+[20220423-20:43:26] [DEBUG] libscp initialized
+[20220423-20:43:26] [ERROR] g_tcp_connect(4, localhost, 3350): getaddrinfo() failed: Name or service not known
+[20220423-20:43:48] [DEBUG] libscp initialized
+[20220423-20:43:48] [ERROR] g_tcp_connect(4, localhost, 3350): getaddrinfo() failed: Name or service not known
